@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<!--
+/**
+ * @author DCKAP Team
+ * @copyright Copyright (c) 2017 DCKAP (https://www.dckap.com)
+ * @package Dckap_Shoppinglist
+ */
+/**
+ * Copyright Â© 2017 DCKAP. All rights reserved.
+ */
+-->
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:ObjectManager/etc/config.xsd">
+    <preference for="Magento\Checkout\Block\Onepage\Success" type="Training\Grandtotalsuccesspage\Block\Onepage\Success"/>
+</config>
